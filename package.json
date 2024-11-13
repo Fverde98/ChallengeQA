@@ -1,0 +1,14 @@
+{
+  "name": "challengeqa",
+  "version": "1.0.0",
+  "description": "La tecnica que utilice fue el Use Case Testing para poder identificar como el usuario interactua con la plataforma y asi poder redactar los CP para disenãr cada de estos escenarios  <!-- Descripcion - Test Step - Test Data - Expected Result/ Estado --> Descripcion                  |---------------                CH01 - CP01- Como usuario ingresar a la pagina inicial del login y logearse con las credenciales   |Test Step  |---------------   Ingresar a la pagina OrangeHRM | Test Data     |---------------   Ingresar Username y password | Expected Result   |---------------  Ingresar a la pagina y visualizar el dashboard de inicio  Estado |  |---------------  Conforme",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  }
+}
